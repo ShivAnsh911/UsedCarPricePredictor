@@ -38,10 +38,11 @@ pytz-deprecation-shim==0.1.0.post0
 pywin32==304
 requests==2.28.1
 rich==12.6.0
-scikit-learn
+scikit-learn==1.0.2
 scipy==1.8.0
 semver==2.13.0
 six==1.16.0
+sklearn==0.0
 smmap==5.0.0
 streamlit==1.15.1
 threadpoolctl==3.1.0
