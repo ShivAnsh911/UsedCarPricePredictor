@@ -2,6 +2,7 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 import pickle
+import sklearn
 
 
 brand_dic = {'Datsun': 0, 'Force': 1, 'Ford': 2, 'Honda': 3, 'Hyundai': 4, 'Isuzu': 5, 'Jeep': 6, 'Kia': 7, 'MG': 8, 'Mahindra': 9, 'Maruti': 10, 'Nissan': 11, 'Renault': 12, 'Skoda': 13, 'Tata': 14, 'Toyota': 15, 'Volkswagen': 16}
